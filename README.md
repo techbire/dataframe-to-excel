@@ -9,6 +9,11 @@ The provided Python script utilizes the Pandas library to create and manipulate 
 #### Instructions
 1. **Installation**: Ensure you have Python installed on your system. Additionally, install the Pandas and Openpyxl library if not already installed (`pip install openpyxl`) (`pip install pandas`).
 
+```
+pip install pandas openpyxl
+
+```
+
 2. **Usage**:
    - Clone this repository to your local machine.
    - Execute the `main.py` script.
