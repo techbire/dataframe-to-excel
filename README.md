@@ -1,4 +1,4 @@
-### -50 Days Summer Challenge
+### 50 Days Summer Challenge
 
 #### Overview
 This repository contains code for organizing and managing a 50-day summer challenge focusing on Data Structures and Algorithms (DSA) topics alongside web development tasks. The main purpose is to provide a structured learning path for individuals looking to enhance their skills in these areas over the summer.
