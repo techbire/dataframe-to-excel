@@ -11,7 +11,6 @@ The provided Python script utilizes the Pandas library to create and manipulate 
 
 ```
 pip install pandas openpyxl
-
 ```
 
 2. **Usage**:
